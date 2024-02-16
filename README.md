@@ -30,3 +30,7 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/5b7df0f2-d371-416e-
 8. Growing spiral
 
 https://github.com/marijadjordjevic724/Manim/assets/94449560/6cab0591-9938-4ee6-9feb-d7309d8f54c7
+
+9. Sine signal combined with ramp
+
+https://github.com/marijadjordjevic724/Manim/assets/94449560/c79f5d4e-36aa-4188-a76d-8db2aad4585b
