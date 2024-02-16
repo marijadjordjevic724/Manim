@@ -15,4 +15,8 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/1d8ba3d2-e991-4a24-
 
 https://github.com/marijadjordjevic724/Manim/assets/94449560/9594cea5-bfb0-496b-b2e1-212650d0abb6
 
-5. 
+5. Bode plot
+
+https://github.com/marijadjordjevic724/Manim/assets/94449560/94b89e96-0b09-4dfa-8f45-0e1e5875dfe4
+
+6. 
