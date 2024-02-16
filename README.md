@@ -27,3 +27,6 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/c8e6ed1c-65d8-4b65-
 
 https://github.com/marijadjordjevic724/Manim/assets/94449560/5b7df0f2-d371-416e-aaeb-fc7d600532fe
 
+8. Growing spiral
+
+https://github.com/marijadjordjevic724/Manim/assets/94449560/6cab0591-9938-4ee6-9feb-d7309d8f54c7
