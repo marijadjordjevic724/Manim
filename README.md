@@ -10,3 +10,9 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/c4879e4a-495d-4469-
 3. Original matrix and its Jordan form
 
 https://github.com/marijadjordjevic724/Manim/assets/94449560/1d8ba3d2-e991-4a24-a8de-daf0951ffc20
+
+4. Rotating camera view
+
+https://github.com/marijadjordjevic724/Manim/assets/94449560/9594cea5-bfb0-496b-b2e1-212650d0abb6
+
+5. 
