@@ -19,4 +19,8 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/9594cea5-bfb0-496b-
 
 https://github.com/marijadjordjevic724/Manim/assets/94449560/94b89e96-0b09-4dfa-8f45-0e1e5875dfe4
 
-6. 
+6. Particle in a box
+
+https://github.com/marijadjordjevic724/Manim/assets/94449560/c8e6ed1c-65d8-4b65-abc5-443edf733d8a
+
+7.
