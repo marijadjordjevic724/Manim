@@ -34,3 +34,7 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/6cab0591-9938-4ee6-
 9. Sine signal combined with ramp
 
 https://github.com/marijadjordjevic724/Manim/assets/94449560/c79f5d4e-36aa-4188-a76d-8db2aad4585b
+
+10. Reachability
+
+https://github.com/marijadjordjevic724/Manim/assets/94449560/58d9d047-4f24-47a9-9037-563e8d66d858
