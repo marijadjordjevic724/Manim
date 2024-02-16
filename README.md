@@ -37,4 +37,4 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/c79f5d4e-36aa-4188-
 
 10. Reachability
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/58d9d047-4f24-47a9-9037-563e8d66d858
+https://github.com/marijadjordjevic724/Manim/assets/94449560/451ca984-8644-44a3-98ad-6dd34208952c
