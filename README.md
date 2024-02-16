@@ -23,4 +23,7 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/94b89e96-0b09-4dfa-
 
 https://github.com/marijadjordjevic724/Manim/assets/94449560/c8e6ed1c-65d8-4b65-abc5-443edf733d8a
 
-7.
+7.Square wave formation
+
+https://github.com/marijadjordjevic724/Manim/assets/94449560/5b7df0f2-d371-416e-aaeb-fc7d600532fe
+
