@@ -1,5 +1,5 @@
 # MANIM videos
-
+Manim Community v0.18.0: Examples of Manim Animations
 
 1. Pythagorean theorem
 
