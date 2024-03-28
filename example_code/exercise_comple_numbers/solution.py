@@ -8,11 +8,11 @@ class Solution1(Scene):
 
         # The product, formulas, etc
         zk =MathTex("z^k", color=WHITE).move_to(ORIGIN)
-        all_elements = MathTex("z^k= z*z*...*z", color=WHITE).next_to(ORIGIN)
+        all_elements = MathTex("z^k= z\\cdot z \\cdot...\\cdot z", color=WHITE).next_to(ORIGIN)
         k_elements = Tex("k elements", color=BLUE, font_size = 40).next_to(all_elements[0][3::],DOWN)
         product = MathTex("z^k= \\prod_{i=1}^{k}z", color=WHITE).next_to(ORIGIN)
         product[0][3:-1].set_color(BLUE)
-        sum_z2 = MathTex("z^k= \\prod_{i=1}^{k}|z|*e^{j\\arg(z)}", color=WHITE).next_to(ORIGIN)
+        sum_z2 = MathTex("z^k= \\prod_{i=1}^{k}|z|\\cdot e^{j\\arg(z)}", color=WHITE).next_to(ORIGIN)
         sum_z2[0][3:8].set_color(BLUE)
         formulas = VGroup(zk, all_elements, k_elements,product, sum_z2).move_to(ORIGIN)
         
@@ -28,7 +28,7 @@ class Solution1(Scene):
         text_module[0][26:33].set_color(BLUE)
         text_phase[0][25:28].set_color(BLUE)
         moduo_zk = MathTex("|z^k| = |z|^k", color=WHITE).next_to(text_module, 3*DOWN)
-        phase_zk = MathTex("\\arg(z^k) = k*\\arg(z^k)").next_to(text_phase,3*DOWN)
+        phase_zk = MathTex("\\arg(z^k) = k\\cdot \\arg(z)").next_to(text_phase,3*DOWN)
         
         #Animations
         self.play(FadeIn(all_elements[0][0:2], scale = 1.5))
@@ -54,7 +54,7 @@ class Solution1(Scene):
                     color=WHITE,
                     font_size=40,
                 ).move_to(ORIGIN+2*UP)
-        z = MathTex("z^k = |z|^k * e^{jk*\\arg(z)}", color=WHITE).move_to(ORIGIN)
+        z = MathTex("z^k = |z|^k\\cdot  e^{jk\\cdot \\arg(z)}", color=WHITE).move_to(ORIGIN)
         self.play(Write(text7, scale = 1.5))
         self.play(FadeIn(z, scale = 1.5))   
         self.wait(3)
@@ -70,7 +70,7 @@ class Solution1(Scene):
         self.play(FadeIn(moduo_zk[0][4]))
         self.play(FadeIn(moduo_zk[0][5::]))
         self.wait(2)
-        
+
         #Animation: phase of the product 
         self.play(Write(text_phase))
         self.play(FadeIn(phase_zk[0][0:7]))
@@ -151,17 +151,4 @@ class Solution1(Scene):
                   Write(text10))
         self.play(FadeIn(z_k, scale = 1.5))
         self.wait(5)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
