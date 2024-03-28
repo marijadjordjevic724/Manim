@@ -40,3 +40,15 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/c79f5d4e-36aa-4188-
 10. Reachability
 
 https://github.com/marijadjordjevic724/Manim/assets/94449560/13956dbf-ec42-4da5-b902-49706c736dea
+
+11. Exercise Complex Numbers 1
+    
+Question 1
+
+https://github.com/marijadjordjevic724/Manim/assets/94449560/6facd2c7-7f01-4745-a07e-4141453ed15d
+
+Solution 1
+
+https://github.com/marijadjordjevic724/Manim/assets/94449560/0a4cca6c-7f56-4e30-bc73-d7129bd1218e
+
+
