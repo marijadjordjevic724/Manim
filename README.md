@@ -49,6 +49,8 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/6facd2c7-7f01-4745-
 
 Solution 1
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/0a4cca6c-7f56-4e30-bc73-d7129bd1218e
+https://github.com/marijadjordjevic724/Manim/assets/94449560/0fab790e-0d3e-4185-a758-6ba4d3e0ccd5
+
+
 
 
