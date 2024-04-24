@@ -45,11 +45,11 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/13956dbf-ec42-4da5-
     
 Question 1
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/6facd2c7-7f01-4745-a07e-4141453ed15d
+https://github.com/marijadjordjevic724/Manim/assets/94449560/28e78799-78a5-4ee7-acbf-788c8ee549a8
 
 Solution 1
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/0fab790e-0d3e-4185-a758-6ba4d3e0ccd5
+https://github.com/marijadjordjevic724/Manim/assets/94449560/a19c5d91-f518-446a-98d2-572a6664055c
 
 
 
