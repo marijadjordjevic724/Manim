@@ -51,6 +51,13 @@ Solution 1
 
 https://github.com/marijadjordjevic724/Manim/assets/94449560/a19c5d91-f518-446a-98d2-572a6664055c
 
+Question 2
+
+https://github.com/marijadjordjevic724/Manim/assets/94449560/a074ee27-3dea-4fb1-a9bd-017997aaa04e
+
+Solution 2
+
+https://github.com/marijadjordjevic724/Manim/assets/94449560/3962dd1d-d11e-4a37-bc21-325fc706eaa2
 
 
 
