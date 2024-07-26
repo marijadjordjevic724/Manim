@@ -119,7 +119,7 @@ class Solution6(Scene):
         combined_label = VGroup(
             MathTex(r'&\text{Our LTI impulse response consists of two distinct', color=LIGHT_GRAY),
             MathTex(r'&\text{modes corresponding to 2nd order subsystems}', color=LIGHT_GRAY),
-            MathTex(r'&\text{  } \Rightarrow \text{ system is at least 4rd order}', color=PURPLE)
+            MathTex(r'&\text{  } \Rightarrow \text{ system is at least 4th order}', color=PURPLE)
         ).arrange(DOWN).scale(0.95).move_to(1.5*DOWN)
 
         self.play(
