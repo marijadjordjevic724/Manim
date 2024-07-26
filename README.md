@@ -57,11 +57,9 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/3962dd1d-d11e-4a37-
 
 Quiestion 5 and Solution 5
 
-https://github.com/user-attachme
+https://github.com/user-attachments/assets/4cfb02c3-7644-4e4a-bfc5-8b8817fe6cf5
 
 https://github.com/user-attachments/assets/2454c1a7-53b0-4c59-b3a1-8040956825a7
-
-nts/assets/4cfb02c3-7644-4e4a-bfc5-8b8817fe6cf5
 
 Question 6 and Solution 6
 
