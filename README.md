@@ -43,21 +43,35 @@ https://github.com/marijadjordjevic724/Manim/assets/94449560/13956dbf-ec42-4da5-
 
 11. Exercise Complex Numbers 1
     
-Question 1
+Question 1 and Solution 1
 
 https://github.com/marijadjordjevic724/Manim/assets/94449560/28e78799-78a5-4ee7-acbf-788c8ee549a8
 
-Solution 1
-
 https://github.com/marijadjordjevic724/Manim/assets/94449560/a19c5d91-f518-446a-98d2-572a6664055c
 
-Question 2
+Question 2 and Solution 2
 
 https://github.com/marijadjordjevic724/Manim/assets/94449560/a074ee27-3dea-4fb1-a9bd-017997aaa04e
 
-Solution 2
-
 https://github.com/marijadjordjevic724/Manim/assets/94449560/3962dd1d-d11e-4a37-bc21-325fc706eaa2
+
+Quiestion 5 and Solution 5
+
+https://github.com/user-attachme
+
+https://github.com/user-attachments/assets/2454c1a7-53b0-4c59-b3a1-8040956825a7
+
+nts/assets/4cfb02c3-7644-4e4a-bfc5-8b8817fe6cf5
+
+Question 6 and Solution 6
+
+https://github.com/user-attachments/assets/59b00fcc-000b-4311-ae2e-7175c909464a
+
+https://github.com/user-attachments/assets/bb0ee467-0df9-407e-8a98-81c20cd147f7
+
+
+
+
 
 
 
