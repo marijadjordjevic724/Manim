@@ -67,7 +67,14 @@ Question 6 and Solution 6
 
 https://github.com/user-attachments/assets/59b00fcc-000b-4311-ae2e-7175c909464a
 
-https://github.com/user-attachments/assets/bb0ee467-0df9-407e-8a98-81c20cd147f7
+https://github.com/user-attachments/assets/bb0ee467-0df9-407e-8a9
+
+Question 7 and Solution 7
+
+https://github.com/user-attachments/assets/ef026842-2583-4f13-859c-923d3bad5c48
+
+https://github.com/user-attachments/assets/20aa3742-afdb-441e-bd48-ccc7c31c581a
+
 
 
 
