@@ -73,9 +73,7 @@ Question 7 and Solution 7
 
 https://github.com/user-attachments/assets/ef026842-2583-4f13-859c-923d3bad5c48
 
-https://github.com/user-attachments/assets/20aa3742-afdb-441e-bd48-ccc7c31c581a
-
-
+https://github.com/user-attachments/assets/9cbff773-7d35-419a-8a2a-1021e3c8b471
 
 
 
