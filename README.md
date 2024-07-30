@@ -65,13 +65,28 @@ Question 6 and Solution 6
 
 https://github.com/user-attachments/assets/59b00fcc-000b-4311-ae2e-7175c909464a
 
-https://github.com/user-attachments/assets/bb0ee467-0df9-407e-8a9
+https://github.com/user-attachments/assets/2d984b98-bc50-4c9d-a8f6-9f51ec45b19b
 
 Question 7 and Solution 7
 
 https://github.com/user-attachments/assets/ef026842-2583-4f13-859c-923d3bad5c48
 
 https://github.com/user-attachments/assets/87a822af-7883-4fea-a76e-fbed24ca3f01
+
+Question 9 and Solution 9
+
+https://github.com/user-attachments/assets/da529131-542c-4209-b929-7ceccb7fd6e5
+
+https://github.com/user-attachments/assets/9b824aae-3738-45db-a5c4-32d499a0e477
+
+Question 14 and Solution 14
+
+https://github.com/user-attachments/assets/ae035141-c545-400c-962d-17b3ff2fcd47
+
+https://github.com/user-attachments/assets/7d42fa10-02a6-486d-a426-fd8bbccab980
+
+
+
 
 
 
