@@ -85,6 +85,49 @@ https://github.com/user-attachments/assets/ae035141-c545-400c-962d-17b3ff2fcd47
 
 https://github.com/user-attachments/assets/7d42fa10-02a6-486d-a426-fd8bbccab980
 
+Question 25 and Solution 25
+
+https://github.com/user-attachments/assets/bd97e089-09e0-4b80-aa3b-b513d4fb2258
+
+https://github.com/user-attachments/assets/5263e6a7-5479-4ca6-b1b8-4c28b351401d
+
+Question 31 and Solution 31
+
+https://github.com/user-attachments/assets/fefcb374-5bbe-4ec7-8be0-0906b0a4b026
+
+https://github.com/user-attachments/assets/b7d2b95a-9aff-4b4e-b11e-03eeef74066f
+
+Question 32 and Solution 32
+
+https://github.com/user-attachments/assets/a87b6830-4bc1-441b-a687-0e3acdafb7d6
+
+https://github.com/user-attachments/assets/7a836bc6-a552-4023-96ad-a7850ac4f795
+
+Question 33 and Solution 33
+
+https://github.com/user-attachments/assets/7b640fe5-b041-4fa1-bd32-9b4491290991
+
+https://github.com/user-attachments/assets/a968d8b3-ebcc-4660-b29a-46ce1dc1512b
+
+Question 34 and Solution 34
+
+https://github.com/user-attachments/assets/908cd1c2-cabb-4239-95f9-4f7eb8c34137
+
+https://github.com/user-attachments/assets/608abec9-c3fa-4046-9c09-c5902b6e39b8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
