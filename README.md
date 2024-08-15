@@ -115,27 +115,15 @@ https://github.com/user-attachments/assets/908cd1c2-cabb-4239-95f9-4f7eb8c34137
 
 https://github.com/user-attachments/assets/608abec9-c3fa-4046-9c09-c5902b6e39b8
 
+Solution 38
 
+https://github.com/user-attachments/assets/6412ac47-d15f-4c0d-93fe-3b40719167f4
 
+Solution 39
 
+https://github.com/user-attachments/assets/e50f2d37-fb2f-4683-8640-8bf2cdb72aa6
 
+Solution 40
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/223f271e-468d-4482-ae8b-1315fbe94b88
 
