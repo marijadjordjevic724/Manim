@@ -1,129 +1,195 @@
 # MANIM videos
 Manim Community v0.18.0: Examples of Manim Animations
 
-1. Pythagorean theorem
+Question 1
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/08e44e05-db86-4518-94e8-00e1791c179e
+https://github.com/user-attachments/assets/1fc706d0-4a83-4cff-9ed1-670778accd24
 
-2. Sine wave depending on the frequency
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/c4879e4a-495d-4469-81ad-6d9b18435833
+https://github.com/user-attachments/assets/297fbd36-4ef9-42ef-8903-02fa32ba1692
 
-3. Original matrix and its Jordan form
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/1d8ba3d2-e991-4a24-a8de-daf0951ffc20
+Question 2
 
-4. Rotating camera view
+https://github.com/user-attachments/assets/d9ccacf7-a3b3-4015-ad3b-c37f43106984
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/9594cea5-bfb0-496b-b2e1-212650d0abb6
 
-5. Bode plot
+https://github.com/user-attachments/assets/4cc47027-84bd-4279-b817-ed79274d50cd
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/94b89e96-0b09-4dfa-8f45-0e1e5875dfe4
 
-6. Particle in a box
+Question 5
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/c8e6ed1c-65d8-4b65-abc5-443edf733d8a
+https://github.com/user-attachments/assets/6546d86a-4a97-4ed6-b148-5695ab697f54
 
-7.Square wave formation
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/5b7df0f2-d371-416e-aaeb-fc7d600532fe
+https://github.com/user-attachments/assets/ed5822fc-ec30-48b7-92bb-eb8c90932557
 
-8. Growing spiral
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/6cab0591-9938-4ee6-9feb-d7309d8f54c7
+Question 6
 
-9. Sine signal combined with ramp
+https://github.com/user-attachments/assets/65c10841-e55b-4039-9ec4-e5827f6716ad
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/c79f5d4e-36aa-4188-a76d-8db2aad4585b
 
-10. Reachability
+https://github.com/user-attachments/assets/651d75ef-c0d6-4404-83cd-71a7e26d9c94
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/13956dbf-ec42-4da5-b902-49706c736dea
 
-11. Exercise Complex Numbers 1
-    
-Question 1 and Solution 1
+Question 7
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/28e78799-78a5-4ee7-acbf-788c8ee549a8
+https://github.com/user-attachments/assets/af601511-541b-4e81-b36c-909c490a1ad5
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/a19c5d91-f518-446a-98d2-572a6664055c
 
-Question 2 and Solution 2
+https://github.com/user-attachments/assets/7614328e-f0b4-4f1a-aa6d-c310c1cadfae
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/a074ee27-3dea-4fb1-a9bd-017997aaa04e
 
-https://github.com/marijadjordjevic724/Manim/assets/94449560/3962dd1d-d11e-4a37-bc21-325fc706eaa2
+Question 9
 
-Quiestion 5 and Solution 5
+https://github.com/user-attachments/assets/d0bdac3e-0150-491f-a8cd-0492f2cd643a
 
-https://github.com/user-attachments/assets/4cfb02c3-7644-4e4a-bfc5-8b8817fe6cf5
 
-https://github.com/user-attachments/assets/2454c1a7-53b0-4c59-b3a1-8040956825a7
+https://github.com/user-attachments/assets/ba31fe68-55ba-4fa4-bc59-36b7c9c596a7
 
-Question 6 and Solution 6
 
-https://github.com/user-attachments/assets/59b00fcc-000b-4311-ae2e-7175c909464a
+Question 13
 
-https://github.com/user-attachments/assets/2d984b98-bc50-4c9d-a8f6-9f51ec45b19b
+https://github.com/user-attachments/assets/90e408fc-a4c7-4eef-a36c-116a8f5a096b
 
-Question 7 and Solution 7
 
-https://github.com/user-attachments/assets/ef026842-2583-4f13-859c-923d3bad5c48
+https://github.com/user-attachments/assets/57217f89-6a0f-41fa-a2c5-6b50f3e47f47
 
-https://github.com/user-attachments/assets/87a822af-7883-4fea-a76e-fbed24ca3f01
 
-Question 9 and Solution 9
+Question 14
 
-https://github.com/user-attachments/assets/da529131-542c-4209-b929-7ceccb7fd6e5
+https://github.com/user-attachments/assets/50519e3b-8da0-4e3a-b985-6f21e572163d
 
-https://github.com/user-attachments/assets/9b824aae-3738-45db-a5c4-32d499a0e477
 
-Question 14 and Solution 14
+https://github.com/user-attachments/assets/8ed95173-e30c-4eaf-a594-e357e9cccafa
 
-https://github.com/user-attachments/assets/ae035141-c545-400c-962d-17b3ff2fcd47
 
-https://github.com/user-attachments/assets/7d42fa10-02a6-486d-a426-fd8bbccab980
+Question 15: not finished
+Question 17
 
-Question 25 and Solution 25
+https://github.com/user-attachments/assets/c3e1bdfe-66ea-4ed8-9ae6-f68bb296230d
 
-https://github.com/user-attachments/assets/bd97e089-09e0-4b80-aa3b-b513d4fb2258
 
-https://github.com/user-attachments/assets/5263e6a7-5479-4ca6-b1b8-4c28b351401d
+https://github.com/user-attachments/assets/c4b4beac-8779-4a6d-b581-8693f76cf3c6
 
-Question 31 and Solution 31
 
-https://github.com/user-attachments/assets/fefcb374-5bbe-4ec7-8be0-0906b0a4b026
+Question 23
 
-https://github.com/user-attachments/assets/b7d2b95a-9aff-4b4e-b11e-03eeef74066f
+https://github.com/user-attachments/assets/60bf200a-352e-4213-af2c-d94e3d7759d4
 
-Question 32 and Solution 32
 
-https://github.com/user-attachments/assets/a87b6830-4bc1-441b-a687-0e3acdafb7d6
+https://github.com/user-attachments/assets/89d2cac2-3356-48cf-8b8a-7f48419f0413
 
-https://github.com/user-attachments/assets/7a836bc6-a552-4023-96ad-a7850ac4f795
 
-Question 33 and Solution 33
+Question 24
 
-https://github.com/user-attachments/assets/7b640fe5-b041-4fa1-bd32-9b4491290991
+https://github.com/user-attachments/assets/f7bd1a05-59c7-4094-95e0-157187f4bd37
 
-https://github.com/user-attachments/assets/a968d8b3-ebcc-4660-b29a-46ce1dc1512b
 
-Question 34 and Solution 34
+https://github.com/user-attachments/assets/da5dbb35-e4d9-4448-a8b9-7175021bc945
 
-https://github.com/user-attachments/assets/908cd1c2-cabb-4239-95f9-4f7eb8c34137
 
-https://github.com/user-attachments/assets/608abec9-c3fa-4046-9c09-c5902b6e39b8
+Question 25
 
-Solution 38
+https://github.com/user-attachments/assets/39178ba8-b8fd-4929-928e-b666c6f046c5
 
-https://github.com/user-attachments/assets/6412ac47-d15f-4c0d-93fe-3b40719167f4
 
-Solution 39
+https://github.com/user-attachments/assets/e83660a8-1c0a-4607-b6ad-0a0eff6537be
 
-https://github.com/user-attachments/assets/e50f2d37-fb2f-4683-8640-8bf2cdb72aa6
 
-Solution 40
+Question 27
 
-https://github.com/user-attachments/assets/223f271e-468d-4482-ae8b-1315fbe94b88
+https://github.com/user-attachments/assets/1ea16e28-5398-44a1-9b77-68998c3eaea5
+
+
+https://github.com/user-attachments/assets/cede276e-c39e-4861-9a8c-4b0f6c46dcca
+
+
+Question 28
+
+https://github.com/user-attachments/assets/93450f1e-1c23-41c1-8f8b-88a7ad98f444
+
+
+https://github.com/user-attachments/assets/940b180a-f46e-4690-b5d1-6db3482a577f
+
+
+Question 29
+
+https://github.com/user-attachments/assets/2340ed45-0431-474f-9a5d-3ac6fcce27c8
+
+
+https://github.com/user-attachments/assets/1467737f-938b-432d-bbe7-a47055b76bd1
+
+
+Question 31
+
+https://github.com/user-attachments/assets/21fad4f2-9479-4a85-8417-8700ce929f79
+
+
+https://github.com/user-attachments/assets/e85ad4d5-2d12-47a3-9e8f-d48ad521b43a
+
+
+Question 32
+
+https://github.com/user-attachments/assets/80edf77b-e95c-4510-9a24-7425a9fe695d
+
+
+https://github.com/user-attachments/assets/ad9ff74c-57fe-4506-8379-34b352f729b5
+
+
+Question 33
+
+https://github.com/user-attachments/assets/db808a4d-a656-4d41-9871-81a231c22712
+
+
+https://github.com/user-attachments/assets/a06846fc-0378-4c44-8289-043588ff9f8a
+
+
+Question 34
+
+https://github.com/user-attachments/assets/d7b2f429-aa14-46c0-b05d-eed298ba4a29
+
+
+https://github.com/user-attachments/assets/e8579989-1e41-41c1-8cde-8f1fd4ea6c71
+
+
+Question 35
+
+https://github.com/user-attachments/assets/1af9a3ee-20c3-4548-96a3-cc65f7592ce6
+
+https://github.com/user-attachments/assets/7f7faa37-7f38-4e1d-9af2-a91ff9d9fefa
+
+Question 37
+
+https://github.com/user-attachments/assets/d295c545-86fd-47f1-8e2e-7f558391f2fa
+
+
+https://github.com/user-attachments/assets/efd1b153-ab26-483d-a734-347664edd156
+
+
+Question 38
+
+https://github.com/user-attachments/assets/507964c3-d088-4b9a-aaf5-cafdee5b32d8
+
+
+https://github.com/user-attachments/assets/1ba9a3f1-0398-4730-adc8-c24b6da8a354
+
+
+Question 39
+
+https://github.com/user-attachments/assets/61acbc6f-54d0-4c8f-a54b-791e7f170255
+
+
+https://github.com/user-attachments/assets/0ddd7a62-4714-4a72-8029-08d4bc93115b
+
+
+Question 40
+
+https://github.com/user-attachments/assets/1d5c1098-947b-4f97-b51d-d6e9262ab354
+
+
+https://github.com/user-attachments/assets/ad405ae2-23f3-4df4-9412-c0141613ce8f
+
+
 
