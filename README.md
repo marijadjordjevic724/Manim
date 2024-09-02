@@ -65,7 +65,6 @@ https://github.com/user-attachments/assets/50519e3b-8da0-4e3a-b985-6f21e572163d
 https://github.com/user-attachments/assets/8ed95173-e30c-4eaf-a594-e357e9cccafa
 
 
-Question 15: not finished
 Question 17
 
 https://github.com/user-attachments/assets/c3e1bdfe-66ea-4ed8-9ae6-f68bb296230d
