@@ -172,9 +172,7 @@ Question 38
 https://github.com/user-attachments/assets/507964c3-d088-4b9a-aaf5-cafdee5b32d8
 
 
-https://github.com/user-attachments/assets/27207e47-f2e5-4b85-8465-2680c05ee6b5
-
-
+https://github.com/user-attachments/assets/9665d837-8e56-4265-9eae-7918704e6bf8
 
 
 Question 39
