@@ -1,6 +1,11 @@
 # MANIM videos
 Manim Community v0.18.0: Examples of Manim Animations
 
+Convolution
+
+https://github.com/user-attachments/assets/5834b4a1-2384-440c-8d6a-a5a4e0c6ba0d
+
+
 Question 1
 
 https://github.com/user-attachments/assets/1fc706d0-4a83-4cff-9ed1-670778accd24
