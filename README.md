@@ -3,7 +3,7 @@ Manim Community v0.18.0: Examples of Manim Animations
 
 Convolution
 
-https://github.com/user-attachments/assets/5834b4a1-2384-440c-8d6a-a5a4e0c6ba0d
+https://github.com/user-attachments/assets/e80fb42a-5a0a-4cd1-a9a4-e8b7e88b4dce
 
 
 Question 1
