@@ -1,11 +1,14 @@
 # MANIM videos
 Manim Community v0.18.0: Examples of Manim Animations
 
-Convolution
+Convolution new video, generalized signals
 
+https://github.com/user-attachments/assets/94cc51e7-9194-4b06-b323-a756e9b966f8
+
+
+Convolution: old video
 
 https://github.com/user-attachments/assets/0e2ec658-be79-4cf1-82af-fd1861bedce3
-
 
 
 Question 1
