@@ -1,0 +1,110 @@
+[
+  {
+    "input_text": "This circle is drawn as I speak.",
+    "input_data": {
+      "input_text": "This circle is drawn as I speak.",
+      "service": "gtts"
+    },
+    "original_audio": "this-circle-is-drawn-as-i-speak-73a82f70.mp3",
+    "final_audio": "this-circle-is-drawn-as-i-speak-73a82f70.mp3"
+  },
+  {
+    "input_text": "Let's shift it to the left 2 units.",
+    "input_data": {
+      "input_text": "Let's shift it to the left 2 units.",
+      "service": "gtts"
+    },
+    "original_audio": "let-s-shift-it-to-the-left-2-units-ea4622dd.mp3",
+    "final_audio": "let-s-shift-it-to-the-left-2-units-ea4622dd.mp3"
+  },
+  {
+    "input_text": "Now, let's transform it into a square.",
+    "input_data": {
+      "input_text": "Now, let's transform it into a square.",
+      "service": "gtts"
+    },
+    "original_audio": "now-let-s-transform-it-into-a-square-8a37c79f.mp3",
+    "final_audio": "now-let-s-transform-it-into-a-square-8a37c79f.mp3"
+  },
+  {
+    "input_text": "Thank you for watching.",
+    "input_data": {
+      "input_text": "Thank you for watching.",
+      "service": "gtts"
+    },
+    "original_audio": "thank-you-for-watching-14bd13b7.mp3",
+    "final_audio": "thank-you-for-watching-14bd13b7.mp3"
+  },
+  {
+    "input_text": "V\u00f2ng tr\u00f2n n\u00e0y \u0111\u01b0\u1ee3c v\u1ebd khi t\u00f4i n\u00f3i.",
+    "input_data": {
+      "input_text": "V\u00f2ng tr\u00f2n n\u00e0y \u0111\u01b0\u1ee3c v\u1ebd khi t\u00f4i n\u00f3i.",
+      "service": "gtts"
+    },
+    "original_audio": "vong-tron-nay-duoc-ve-khi-toi-noi-2e068766.mp3",
+    "final_audio": "vong-tron-nay-duoc-ve-khi-toi-noi-2e068766.mp3"
+  },
+  {
+    "input_text": "H\u00e3y chuy\u1ec3n n\u00f3 sang b\u00ean tr\u00e1i 2 \u0111\u01a1n v\u1ecb.",
+    "input_data": {
+      "input_text": "H\u00e3y chuy\u1ec3n n\u00f3 sang b\u00ean tr\u00e1i 2 \u0111\u01a1n v\u1ecb.",
+      "service": "gtts"
+    },
+    "original_audio": "hay-chuyen-no-sang-ben-trai-2-don-vi-8a5379f4.mp3",
+    "final_audio": "hay-chuyen-no-sang-ben-trai-2-don-vi-8a5379f4.mp3"
+  },
+  {
+    "input_text": "B\u00e2y gi\u1edd h\u00e3y bi\u1ebfn n\u00f3 th\u00e0nh m\u1ed9t h\u00ecnh vu\u00f4ng.",
+    "input_data": {
+      "input_text": "B\u00e2y gi\u1edd h\u00e3y bi\u1ebfn n\u00f3 th\u00e0nh m\u1ed9t h\u00ecnh vu\u00f4ng.",
+      "service": "gtts"
+    },
+    "original_audio": "bay-gio-hay-bien-no-thanh-mot-hinh-vuong-4dbec116.mp3",
+    "final_audio": "bay-gio-hay-bien-no-thanh-mot-hinh-vuong-4dbec116.mp3"
+  },
+  {
+    "input_text": "C\u1ea3m \u01a1n v\u00ec \u0111\u00e3 xem.",
+    "input_data": {
+      "input_text": "C\u1ea3m \u01a1n v\u00ec \u0111\u00e3 xem.",
+      "service": "gtts"
+    },
+    "original_audio": "cam-on-vi-da-xem-5f6d7705.mp3",
+    "final_audio": "cam-on-vi-da-xem-5f6d7705.mp3"
+  },
+  {
+    "input_text": "\\text{The simplest method of calculating the product of complex} \\text{numbers is to express them in their exponential form.}",
+    "input_data": {
+      "input_text": "\\text{The simplest method of calculating the product of complex} \\text{numbers is to express them in their exponential form.}",
+      "service": "gtts"
+    },
+    "original_audio": "text-the-simplest-method-of-calculating-the-bc4db60e.mp3",
+    "final_audio": "text-the-simplest-method-of-calculating-the-bc4db60e.mp3"
+  },
+  {
+    "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+    "input_data": {
+      "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+      "service": "gtts"
+    },
+    "original_audio": "the-simplest-method-of-calculating-the-product-of-88158e4e.mp3",
+    "final_audio": "the-simplest-method-of-calculating-the-product-of-88158e4e.mp3"
+  },
+  {
+    "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+    "input_data": {
+      "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+      "service": "gtts"
+    },
+    "original_audio": "the-simplest-method-of-calculating-the-product-of-88158e4e.mp3",
+    "final_audio": "the-simplest-method-of-calculating-the-product-of-88158e4e.mp3"
+  },
+  {
+    "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+    "input_data": {
+      "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+      "service": "gtts"
+    },
+    "original_audio": "the-simplest-method-of-calculating-the-product-of-88158e4e.mp3",
+    "final_audio": "the-simplest-method-of-calculating-the-product-of-88158e4e.mp3"
+  }
+]

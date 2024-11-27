@@ -1,7 +1,12 @@
 from manim import *
+from manim_voiceover import VoiceoverScene # type: ignore
+from manim_voiceover.services.gtts import GTTSService # type: ignore
+import re
 
-class Solution1(Scene):
+
+class Solution1(VoiceoverScene):
     def construct(self):
+        self.set_speech_service(GTTSService(lang="en", tld="com"))
 
         #---------------------------------------------------------------------------------
         # PART TWO
@@ -41,7 +46,13 @@ class Solution1(Scene):
         self.play(FadeOut(all_elements[0][3::]),
                   ReplacementTransform(k_elements,product[0][3::]))
         self.wait(3)
-        self.play(Write(text_34, scale=1.3))
+        concatenated_tex = " ".join(
+            re.sub(r"\\text\{([^}]*)\}", r"\1", m.get_tex_string())
+            for m in text_34 if isinstance(m, MathTex)
+        )
+        with self.voiceover(text=concatenated_tex) as tracker:
+            self.play(Write(text_34, scale=1.3), run_time=tracker.duration)
+        #self.play(Write(text_34, scale=1.3))
         self.wait(2)
         self.play(FadeOut(product[0][3::]),
                   FadeIn(sum_z2[0][3::]))

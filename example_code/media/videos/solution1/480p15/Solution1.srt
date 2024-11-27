@@ -1,0 +1,8 @@
+1
+00:00:10,000 --> 00:00:14,153
+The simplest method of calculating the product of complex
+
+2
+00:00:14,253 --> 00:00:18,108
+numbers is to express them in their exponential form.
+
