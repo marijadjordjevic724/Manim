@@ -1,12 +1,21 @@
 from manim import *
 from manim_voiceover import VoiceoverScene # type: ignore
 from manim_voiceover.services.gtts import GTTSService # type: ignore
+from manim_voiceover.services.azure import AzureService # type: ignore
 import re
 
 
 class Solution1(VoiceoverScene):
     def construct(self):
-        self.set_speech_service(GTTSService(lang="en", tld="com"))
+        # NOTE The GTTS should be used for testing, as it is the free TTS, and only switch to Azure when you're done prototyping 
+
+        #self.set_speech_service(GTTSService(lang="en", tld="com"))
+        self.set_speech_service(
+            AzureService(
+                voice="en-US-CoraMultilingualNeural",
+                style="e-learning",
+            )
+        )
 
         #---------------------------------------------------------------------------------
         # PART TWO
@@ -31,6 +40,8 @@ class Solution1(VoiceoverScene):
         text4[0][29:44].set_color(BLUE)
         text_34 = VGroup(text3, text4).move_to(ORIGIN+2*UP).scale(0.9)
 
+        text_34_str = "The simplest method of calculating the product of complex numbers is to express them in their exponential form."
+
         #Modules and phases
         text_module = MathTex("\\text{The modulus of }","{z}^{k}", "\\text{ is the product of all modules:}", font_size = 40).move_to(ORIGIN+2.5*UP)
         text_phase = MathTex("\\text{The phase of }", "{z}^{k}","\\text{ is the sum of all phases:}", font_size = 40).move_to(ORIGIN-0.5*UP)
@@ -46,11 +57,8 @@ class Solution1(VoiceoverScene):
         self.play(FadeOut(all_elements[0][3::]),
                   ReplacementTransform(k_elements,product[0][3::]))
         self.wait(3)
-        concatenated_tex = " ".join(
-            re.sub(r"\\text\{([^}]*)\}", r"\1", m.get_tex_string())
-            for m in text_34 if isinstance(m, MathTex)
-        )
-        with self.voiceover(text=concatenated_tex) as tracker:
+
+        with self.voiceover(text=text_34_str) as tracker:
             self.play(Write(text_34, scale=1.3), run_time=tracker.duration)
         #self.play(Write(text_34, scale=1.3))
         self.wait(2)

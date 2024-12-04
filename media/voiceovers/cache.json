@@ -1,0 +1,362 @@
+[
+  {
+    "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+    "input_data": {
+      "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+      "service": "gtts"
+    },
+    "original_audio": "the-simplest-method-of-calculating-the-product-of-88158e4e.mp3",
+    "final_audio": "the-simplest-method-of-calculating-the-product-of-88158e4e.mp3"
+  },
+  {
+    "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+    "input_data": {
+      "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+      "service": "gtts"
+    },
+    "original_audio": "the-simplest-method-of-calculating-the-product-of-88158e4e.mp3",
+    "final_audio": "the-simplest-method-of-calculating-the-product-of-88158e4e.mp3"
+  },
+  {
+    "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+    "input_data": {
+      "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+      "ssml": "<speak version=\"1.0\" xmlns=\"http://www.w3.org/2001/10/synthesis\"\n    xmlns:mstts=\"https://www.w3.org/2001/mstts\" xml:lang=\"en-US\">\n    <voice name=\"en-US-AriaNeural\">\n        <mstts:express-as style=\"newscast-casual\">The simplest method of calculating the product of complex numbers is to express them in their exponential form.</mstts:express-as>\n    </voice>\n</speak>\n        ",
+      "service": "azure",
+      "config": {
+        "voice": "en-US-AriaNeural",
+        "style": "newscast-casual",
+        "output_format": "Audio48Khz192KBitRateMonoMp3",
+        "prosody": null
+      }
+    },
+    "ssml": "<speak version=\"1.0\" xmlns=\"http://www.w3.org/2001/10/synthesis\"\n    xmlns:mstts=\"https://www.w3.org/2001/mstts\" xml:lang=\"en-US\">\n    <voice name=\"en-US-AriaNeural\">\n        <mstts:express-as style=\"newscast-casual\">The simplest method of calculating the product of complex numbers is to express them in their exponential form.</mstts:express-as>\n    </voice>\n</speak>\n        ",
+    "word_boundaries": [
+      {
+        "audio_offset": 500000,
+        "duration_milliseconds": 112,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": "The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 1750000,
+        "duration_milliseconds": 487,
+        "text_offset": 4,
+        "word_length": 8,
+        "text": "simplest",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 6750000,
+        "duration_milliseconds": 375,
+        "text_offset": 13,
+        "word_length": 6,
+        "text": "method",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10625000,
+        "duration_milliseconds": 112,
+        "text_offset": 20,
+        "word_length": 2,
+        "text": "of",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 11875000,
+        "duration_milliseconds": 675,
+        "text_offset": 23,
+        "word_length": 11,
+        "text": "calculating",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18750000,
+        "duration_milliseconds": 100,
+        "text_offset": 35,
+        "word_length": 3,
+        "text": "the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 19875000,
+        "duration_milliseconds": 462,
+        "text_offset": 39,
+        "word_length": 7,
+        "text": "product",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24625000,
+        "duration_milliseconds": 112,
+        "text_offset": 47,
+        "word_length": 2,
+        "text": "of",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 25875000,
+        "duration_milliseconds": 575,
+        "text_offset": 50,
+        "word_length": 7,
+        "text": "complex",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 31750000,
+        "duration_milliseconds": 450,
+        "text_offset": 58,
+        "word_length": 7,
+        "text": "numbers",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 37000000,
+        "duration_milliseconds": 137,
+        "text_offset": 66,
+        "word_length": 2,
+        "text": "is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38500000,
+        "duration_milliseconds": 112,
+        "text_offset": 69,
+        "word_length": 2,
+        "text": "to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 39750000,
+        "duration_milliseconds": 500,
+        "text_offset": 72,
+        "word_length": 7,
+        "text": "express",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 44875000,
+        "duration_milliseconds": 200,
+        "text_offset": 80,
+        "word_length": 4,
+        "text": "them",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 47000000,
+        "duration_milliseconds": 87,
+        "text_offset": 85,
+        "word_length": 2,
+        "text": "in",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 48000000,
+        "duration_milliseconds": 187,
+        "text_offset": 88,
+        "word_length": 5,
+        "text": "their",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 50000000,
+        "duration_milliseconds": 587,
+        "text_offset": 94,
+        "word_length": 11,
+        "text": "exponential",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 56000000,
+        "duration_milliseconds": 450,
+        "text_offset": 106,
+        "word_length": 4,
+        "text": "form",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 60625000,
+        "duration_milliseconds": 112,
+        "text_offset": 110,
+        "word_length": 1,
+        "text": ".",
+        "boundary_type": "Punctuation"
+      }
+    ],
+    "original_audio": "the-simplest-method-of-calculating-the-product-of-46ddb776.mp3",
+    "final_audio": "the-simplest-method-of-calculating-the-product-of-46ddb776.mp3"
+  },
+  {
+    "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+    "input_data": {
+      "input_text": "The simplest method of calculating the product of complex numbers is to express them in their exponential form.",
+      "ssml": "<speak version=\"1.0\" xmlns=\"http://www.w3.org/2001/10/synthesis\"\n    xmlns:mstts=\"https://www.w3.org/2001/mstts\" xml:lang=\"en-US\">\n    <voice name=\"en-US-CoraMultilingualNeural\">\n        <mstts:express-as style=\"e-learning\">The simplest method of calculating the product of complex numbers is to express them in their exponential form.</mstts:express-as>\n    </voice>\n</speak>\n        ",
+      "service": "azure",
+      "config": {
+        "voice": "en-US-CoraMultilingualNeural",
+        "style": "e-learning",
+        "output_format": "Audio48Khz192KBitRateMonoMp3",
+        "prosody": null
+      }
+    },
+    "ssml": "<speak version=\"1.0\" xmlns=\"http://www.w3.org/2001/10/synthesis\"\n    xmlns:mstts=\"https://www.w3.org/2001/mstts\" xml:lang=\"en-US\">\n    <voice name=\"en-US-CoraMultilingualNeural\">\n        <mstts:express-as style=\"e-learning\">The simplest method of calculating the product of complex numbers is to express them in their exponential form.</mstts:express-as>\n    </voice>\n</speak>\n        ",
+    "word_boundaries": [
+      {
+        "audio_offset": 500000,
+        "duration_milliseconds": 150,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": "The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 2125000,
+        "duration_milliseconds": 525,
+        "text_offset": 4,
+        "word_length": 8,
+        "text": "simplest",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 7500000,
+        "duration_milliseconds": 300,
+        "text_offset": 13,
+        "word_length": 6,
+        "text": "method",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10625000,
+        "duration_milliseconds": 100,
+        "text_offset": 20,
+        "word_length": 2,
+        "text": "of",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 11750000,
+        "duration_milliseconds": 712,
+        "text_offset": 23,
+        "word_length": 11,
+        "text": "calculating",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 19000000,
+        "duration_milliseconds": 87,
+        "text_offset": 35,
+        "word_length": 3,
+        "text": "the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20000000,
+        "duration_milliseconds": 437,
+        "text_offset": 39,
+        "word_length": 7,
+        "text": "product",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24500000,
+        "duration_milliseconds": 100,
+        "text_offset": 47,
+        "word_length": 2,
+        "text": "of",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 25625000,
+        "duration_milliseconds": 537,
+        "text_offset": 50,
+        "word_length": 7,
+        "text": "complex",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 31125000,
+        "duration_milliseconds": 450,
+        "text_offset": 58,
+        "word_length": 7,
+        "text": "numbers",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36250000,
+        "duration_milliseconds": 187,
+        "text_offset": 66,
+        "word_length": 2,
+        "text": "is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38250000,
+        "duration_milliseconds": 125,
+        "text_offset": 69,
+        "word_length": 2,
+        "text": "to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 39625000,
+        "duration_milliseconds": 525,
+        "text_offset": 72,
+        "word_length": 7,
+        "text": "express",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 45000000,
+        "duration_milliseconds": 175,
+        "text_offset": 80,
+        "word_length": 4,
+        "text": "them",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 46875000,
+        "duration_milliseconds": 150,
+        "text_offset": 85,
+        "word_length": 2,
+        "text": "in",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 48500000,
+        "duration_milliseconds": 175,
+        "text_offset": 88,
+        "word_length": 5,
+        "text": "their",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 50375000,
+        "duration_milliseconds": 675,
+        "text_offset": 94,
+        "word_length": 11,
+        "text": "exponential",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 57250000,
+        "duration_milliseconds": 462,
+        "text_offset": 106,
+        "word_length": 4,
+        "text": "form",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 62000000,
+        "duration_milliseconds": 100,
+        "text_offset": 110,
+        "word_length": 1,
+        "text": ".",
+        "boundary_type": "Punctuation"
+      }
+    ],
+    "original_audio": "the-simplest-method-of-calculating-the-product-of-3fa7e64f.mp3",
+    "final_audio": "the-simplest-method-of-calculating-the-product-of-3fa7e64f.mp3"
+  }
+]
